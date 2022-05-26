@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: GSoC 2022  # Animint in R | GSoC 2022
+title: GSoC 2022 Project Blog  # Animint in R | GSoC 2022
 
 # Your name to show in the footer
 author: Yufan Fei
@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Animint Package: "https://github.com/tdhock/animint2"
-  Author's home: "https://faye-yufan.github.io"
+  Author's home: # "https://faye-yufan.github.io"
 
 # --- Logo --- #
 
