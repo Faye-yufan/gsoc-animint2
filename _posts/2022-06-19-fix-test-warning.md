@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My 1st PR: Fix test warnings
+title: My 1st PR - Fix test warnings
 subtitle: Fix test warnings in animint2 Github CI
-gh-repo: Faye-yufan/animint2_Test
+gh-repo: tdhock/animint2
 gh-badge: [star, fork, follow]
 tags: [pr, contribution, gsoc2022]
 comments: true
