@@ -106,3 +106,4 @@ We use the function ```tests_run()``` here.
 ```bash
 tests_run() 
 ```
+**Congratulations!** Now you have started testing your new feature!
