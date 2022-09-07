@@ -34,7 +34,7 @@ Warning message:
 In guide_train.colorbar(guide, scale) :
   colorbar guide needs colour or fill scales.
 ```
-  
+
   When click the variables, in the JS side, it calls `update_selector()` --> `update_geom()` --> `draw_panels()` --> `draw_geom()`
   
   when call the `path/line` geom, the select variable panel would not work for the `color_off`. I think it probably because each time it was selected, it would call the `draw_geom`, and path geom is a special category of geom, so it would update the selection with the `colour` param.
@@ -42,19 +42,15 @@ In guide_train.colorbar(guide, scale) :
   - How to define multiple selection style?
   	- use array or object
   - How to pass `color_off` as hex color code to json?
-  compute it in compiler.
-  
-  
+    - compute it in compiler, there is a function called `toRGB`.
   - `clickSelects` originally bind with legend opacity change. `update_legend_opacity` function should also be changed, add a new `update_legend_color`, or create a general function `update_legend_aes`?
-  
-  - There is no way to avoid this?
-  ```
+  - Future work: There is no way to avoid this?
+```
   if(g_info.select_style != "stroke"){
           e.style("stroke", get_colour);
         }
 ```
 Since the `e.style()` cannot distinguish what is selected and what is not.
-
   
 ### Commits
 - major part of the [commits in pr #72](https://github.com/tdhock/animint2/pull/72/commits)
