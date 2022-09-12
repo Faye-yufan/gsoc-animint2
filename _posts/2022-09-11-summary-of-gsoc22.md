@@ -29,11 +29,11 @@ I learned a lot throughout this summer thanks to GSoC. This experience leads to 
 | [#61 Fix warning in 'make_text' func, renderer3 and compiler](https://github.com/tdhock/animint2/pull/61) | [#56 fix test warnings](https://github.com/tdhock/animint2/issues/56) |
 | [#63 Improve getCommonChunk() speed in compiler](https://github.com/tdhock/animint2/pull/63) | [#57 Compiler speed improvements with many selection subsets](https://github.com/tdhock/animint2/issues/57) |
 | [#66 Add support for legend/axis text size ](https://github.com/tdhock/animint2/pull/66) | [#64 Support for specifying legend/axis font size via theme()](https://github.com/tdhock/animint2/issues/64) |
-| [#69 Change ggplot legend theme back to default](https://github.com/tdhock/animint2/pull/69) |  |
+| [#69 Change ggplot legend theme back to default](https://github.com/tdhock/animint2/pull/69) | &nbsp; |
 | [#72 Support for feature colour_off and use it with alpha_off ](https://github.com/tdhock/animint2/pull/72) | [#59 User configurable alpha for selected and deselected elements](https://github.com/tdhock/animint2/issues/59) |
 | [#73 Fix issue geom_contour error ](https://github.com/tdhock/animint2/pull/73) | [#28 geom_contour error after loading ggplot2](https://github.com/tdhock/animint2/issues/28) |
 | [#75 Fix data.table bug](https://github.com/tdhock/animint2/pull/75) | [#74 data table bug after compiler speed improvements](https://github.com/tdhock/animint2/issues/74) |
-| [#78 fix legend entry text size with theme grey ](https://github.com/tdhock/animint2/pull/78) |  |
+| [#78 fix legend entry text size with theme grey ](https://github.com/tdhock/animint2/pull/78) | &nbsp; |
 
 ## Future Work
 - Now `color_off` is availiable to use, and in the vain of this, we can also do the same thing to `fill`, `size`, these aesthetic parameters.
