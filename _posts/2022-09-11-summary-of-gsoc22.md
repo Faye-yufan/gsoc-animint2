@@ -27,7 +27,8 @@ When it comes to August, I could feel my coding process becoming more and more s
 
 I learned a lot throughout this summer thanks to GSoC. This experience leads to my deep interest in coding for open source project.
 
-## Work Summarygit 
+## Work Summary
+
 
 | Pull Requests   |      Issues      |
 | :------ |:--- |
@@ -40,6 +41,7 @@ I learned a lot throughout this summer thanks to GSoC. This experience leads to 
 | [#73 Fix issue geom_contour error ](https://github.com/tdhock/animint2/pull/73) | [#28 geom_contour error after loading ggplot2](https://github.com/tdhock/animint2/issues/28) |
 | [#75 Fix data.table bug](https://github.com/tdhock/animint2/pull/75) | [#74 data table bug after compiler speed improvements](https://github.com/tdhock/animint2/issues/74) |
 | [#78 fix legend entry text size with theme grey ](https://github.com/tdhock/animint2/pull/78) |       |
+
 
 ## Future Work
 - Now `color_off` is availiable to use, and in the vain of this, we can also do the same thing to `fill`, `size`, these aesthetic parameters.
