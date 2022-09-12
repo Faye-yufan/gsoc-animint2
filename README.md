@@ -4,10 +4,9 @@ Blog link: https://faye-yufan.github.io/gsoc22-animint/
 
 # Summary of my GSoC 2022
 ## Basic Info
-- **Name**: Yufan Fei
+- **Contributor name**: Yufan Fei @Faye-yufan
 - **Email**: yufanfei8@gmail.com
-- **Github Username**: Faye-yufan
-- **Mentors**: Toby Dylan Hocking, Carson Sievert
+- **Mentors**: Toby Dylan Hocking @tdhock, Carson Sievert
 - **Project Title**: Improving Animated Interactive GGPLOT
 - **Project Link**: https://github.com/tdhock/animint2
 
