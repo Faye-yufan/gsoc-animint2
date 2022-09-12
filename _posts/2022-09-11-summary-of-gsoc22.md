@@ -1,5 +1,12 @@
-# GSoC 2022 Project Blog
-## Summary of my GSoC 2022
+---
+layout: post
+title: Summary of my GSoC 2022
+gh-repo: tdhock/animint2
+gh-badge: [star, fork]
+tags: [summary]
+comments: true
+---
+
 ## Basic Info
 - **Name**: Yufan Fei
 - **Email**: yufanfei8@gmail.com
