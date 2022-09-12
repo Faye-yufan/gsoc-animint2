@@ -1,6 +1,8 @@
 # GSoC 2022 Project Blog
+
 Blog link: https://faye-yufan.github.io/gsoc22-animint/
-## Summary of my GSoC 2022
+
+# Summary of my GSoC 2022
 ## Basic Info
 - **Name**: Yufan Fei
 - **Email**: yufanfei8@gmail.com
