@@ -36,6 +36,7 @@ I learned a lot throughout this summer thanks to GSoC. This experience leads to 
 | [#78 fix legend entry text size with theme grey ](https://github.com/tdhock/animint2/pull/78) |  |
 
 ## Future Work
+- Configurable axis titles/plot title/facet titles text size.
 - Now `color_off` is availiable to use, and in the vain of this, we can also do the same thing to `fill`, `size`, these aesthetic parameters.
 - Aesthetic feature of animint2 still needs more test cases, for example, in [issue #77](https://github.com/tdhock/animint2/issues/77), when using color_off in geom_point, stroke-width is too small to see stroke change. Maybe we should find a 'magic' default value for stroke-width.  This is also unavoidable when implementing other aesthetic features.
 - Is there any way to optimize the selection and de-selection logic in `animint.js`? For example, when `get_color_off` function is called, it can also update the selection color.
