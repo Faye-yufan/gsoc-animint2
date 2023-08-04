@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: GSoC 2022 Project Blog  # Animint in R | GSoC 2022
+title: GSoC Project Blog  # Animint in R | GSoC 2022
 
 # Your name to show in the footer
 author: Yufan Fei
@@ -16,7 +16,7 @@ author: Yufan Fei
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Animint Package: "https://github.com/tdhock/animint2"
+    - Animint Package: "https://github.com/animint/animint2"
   Author's home: # "https://faye-yufan.github.io"
 
 # --- Logo --- #
@@ -39,44 +39,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "yufanfei8@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
   github: Faye-yufan
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
   linkedin: yufan-fei-9bb4181a3
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
   instagram: yufan.faye
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
-
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: false
-  linkedin: false
+  facebook: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
