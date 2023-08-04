@@ -23,7 +23,7 @@ I'm not sure if it was caused by the PhantomJS's capabilities, but later on when
 One of the challenges I faced was making the function compatible with the Chrome browser. The function needed to find the right Chrome driver, which corresponds to the installed Chrome version on the system, be it Windows, Linux, or MacOS. Furthermore, I aimed to run the Chrome browser in headless mode, which is a way to run the browser from a command-line interface without a visible UI.
 
 ### Challenges
-#### 1. The incompatibility between the Chrome version and the Chrome Driver version on local machine
+#### The incompatibility between the Chrome version and the Chrome Driver version on local machine
 The Chrome version installed on the local machine was _115.0.5790.102_. However, the available ChromeDriver versions were 112.0.5615.28, ... 105.0.5195.19. As a result, the test suite failed to initialize.
 ```
 [1] "115.0.5790.102" # the Chrome version on my local machine
@@ -39,6 +39,9 @@ Utilize WebDriver managers like `wdman` that can automatically manage the driver
 4. Request/Wait for ChromeDriver Update:
 Check the ChromeDriver website regularly to see if an update that supports local Chrome version has been released. This is a passive approach.
 
+#### `wdman` or `Chromote`?
+
+#### Running on Windows/Mac/Linux environment
 
 ### Reference
 [ChromeDriver Releases](https://chromedriver.chromium.org/downloads)
