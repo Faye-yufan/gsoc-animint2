@@ -1,4 +1,4 @@
-# GSoC 2022 Project Blog
+# GSoC 2022&2023 Project Blog
 
 Blog link: https://faye-yufan.github.io/gsoc22-animint/
 
