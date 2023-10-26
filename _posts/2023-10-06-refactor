@@ -1,0 +1,13 @@
+---
+layout: post
+title: Refactor the renderer for future implementation
+subtitle: Turning some procedure and functional code into class methods
+gh-repo: animint/animint2
+gh-badge: [star, fork, follow]
+tags: [pr, contribution, gsoc2023]
+comments: true
+---
+
+## Motivation
+This change aims to improve the code scalability, particularly when we want to implement new features on the renderer side.
+This PR is critical for future developments of [issue#48](https://github.com/animint/animint2/issues/48)
