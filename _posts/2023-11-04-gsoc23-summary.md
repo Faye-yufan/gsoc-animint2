@@ -7,6 +7,14 @@ gh-badge: [star, fork, follow]
 tags: [pr, contribution, gsoc2023]
 comments: true
 ---
+## Basic Info
+- **Name**: Yufan Fei
+- **Email**: yufanfei8@gmail.com
+- **Github Username**: Faye-yufan
+- **Mentors**: Toby Dylan Hocking, Faizan Uddin Fahad Khan
+- **Project Title**: Enhance Selection, Viz & Automation
+- **Project Link**: [animint2](https://github.com/animint/animint2)
+
 ## **Overview**
 
 This blog shares my work and experience during Google Summer of Code 2023.
