@@ -2,6 +2,36 @@
 
 Blog link: https://faye-yufan.github.io/gsoc22-animint/
 
+# Summary of my GSoC 2023
+## Basic Info
+- **Name**: Yufan Fei
+- **Email**: yufanfei8@gmail.com
+- **Github Username**: Faye-yufan
+- **Mentors**: Toby Dylan Hocking, Faizan Uddin Fahad Khan
+- **Project Title**: Enhance Selection, Viz & Automation
+- **Project Link**: [animint2](https://github.com/animint/animint2)
+
+## Work Summary
+| Pull Requests   |      Issues      |
+| :------ |:--- |
+| [#104 Support for feature fill_off](https://github.com/animint/animint2/pull/104) | [#65 User configurable colour and fill for selected and deselected elements](https://github.com/animint/animint2/issues/65)  |
+| [#82 Replace phantomjs with chrome as headless browser](https://github.com/animint/animint2/pull/82) | |
+| [#92 Fix scrolling issue in Firefox](https://github.com/animint/animint2/pull/92) | [#90 Observations on a Scrolling Bug](https://github.com/animint/animint2/issues/90) |
+| [#101 created animint2pages()](https://github.com/animint/animint2/pull/101) | [#84 move gallery from blocks to gh pages](https://github.com/animint/animint2/issues/84) |
+| [#107 Refactor draw_geom() and turn into a Geom class for scalability](https://github.com/animint/animint2/pull/107) | [#48 Move scale range calculation from compiler to the renderer.](https://github.com/animint/animint2/issues/48) |
+
+## **Overview**
+
+Being part of Google Summer of Code again this year has been a fantastic trip. A big thank you goes to my mentor for giving me the chance to be on this project again and for trusting me with it. I have noticed a tangible improvement in my comfort level and confidence when it comes to coding, which I credit largely to the experiences and learnings of the past year.
+
+Balancing a full-time job during the daylight hours while dedicating my evenings and weekends to developing for animint has indeed posed its challenges. The increased responsibilities and the reduced time for development have made this year's journey a bit more tough compared to last year. Nevertheless, the support and understanding from my mentor have been important in navigating these challenges. His willingness to provide a flexible coding schedule has helped me a lot in managing my commitments effectively.
+
+This GSoC project has really opened my eyes to so much more than just R programming. I got to learn about SSH tokens, which help keep online connections safe and private. I also dived into object-oriented programming, which is a smart way to organize code.
+
+I even got to have some research and learned headless testing, which is a great way to check that software works right without having to click around manually, and learning the latest testing suite development is really fun.
+
+Overall, this year’s Google Summer of Code has been a lot more than just writing code. It's been about learning new things, figuring out how to adapt, and always chasing after more knowledge. I'm really excited to use what I've learned to make the project better and to help out more in the open source community.
+
 # Summary of my GSoC 2022
 ## Basic Info
 - **Contributor**: Yufan Fei [@Faye-yufan](https://github.com/Faye-yufan)
