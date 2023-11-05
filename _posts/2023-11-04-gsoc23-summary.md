@@ -19,30 +19,6 @@ comments: true
 | Pull Requests   |      Issues      |
 | :------ |:--- |
 | [#104 Support for feature fill_off](https://github.com/animint/animint2/pull/104) | [#65 User configurable colour and fill for selected and deselected elements](https://github.com/animint/animint2/issues/65)  |
-| [#82 Replace phantomjs with chrome as headless browser](https://github.com/animint/animint2/pull/82) ## Basic Info
-- **Name**: Yufan Fei
-- **Email**: yufanfei8@gmail.com
-- **Github Username**: Faye-yufan
-- **Mentors**: Toby Dylan Hocking, Faizan Uddin Fahad Khan
-- **Project Title**: Enhance Selection, Viz & Automation
-- **Project Link**: [animint2](https://github.com/animint/animint2)
-
-## Work Summary
-| Pull Requests   |      Issues      |
-| :------ |:--- |
-| [#104 Support for feature fill_off](https://github.com/animint/animint2/pull/104) | [#65 User configurable colour and fill for selected and deselected elements](https://github.com/animint/animint2/issues/65)  |
-| [#82 Replace phantomjs with chrome as headless browser](https://github.com/animint/animint2/pull/82) ## Basic Info
-- **Name**: Yufan Fei
-- **Email**: yufanfei8@gmail.com
-- **Github Username**: Faye-yufan
-- **Mentors**: Toby Dylan Hocking, Faizan Uddin Fahad Khan
-- **Project Title**: Enhance Selection, Viz & Automation
-- **Project Link**: [animint2](https://github.com/animint/animint2)
-
-## Work Summary
-| Pull Requests   |      Issues      |
-| :------ |:--- |
-| [#104 Support for feature fill_off](https://github.com/animint/animint2/pull/104) | [#65 User configurable colour and fill for selected and deselected elements](https://github.com/animint/animint2/issues/65)  |
 | [#82 Replace phantomjs with chrome as headless browser](https://github.com/animint/animint2/pull/82) |       |
 | [#92 Fix scrolling issue in Firefox](https://github.com/animint/animint2/pull/92) | [#90 Observations on a Scrolling Bug](https://github.com/animint/animint2/issues/90) |
 | [#101 created animint2pages()](https://github.com/animint/animint2/pull/101) | [#84 move gallery from blocks to gh pages](https://github.com/animint/animint2/issues/84) |
