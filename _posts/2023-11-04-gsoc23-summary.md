@@ -15,6 +15,15 @@ comments: true
 - **Project Title**: Enhance Selection, Viz & Automation
 - **Project Link**: [animint2](https://github.com/animint/animint2)
 
+## Work Summary
+| Pull Requests   |      Issues      |
+| :------ |:--- |
+| [#104 Support for feature fill_off](https://github.com/animint/animint2/pull/104) | [#65 User configurable colour and fill for selected and deselected elements](https://github.com/animint/animint2/issues/65)  |
+| [#82 Replace phantomjs with chrome as headless browser](https://github.com/animint/animint2/pull/82) | |
+| [#92 Fix scrolling issue in Firefox](https://github.com/animint/animint2/pull/92) | [#90 Observations on a Scrolling Bug](https://github.com/animint/animint2/issues/90) |
+| [#101 created animint2pages()](https://github.com/animint/animint2/pull/101) | [#84 move gallery from blocks to gh pages](https://github.com/animint/animint2/issues/84) |
+| [#107 Refactor draw_geom() and turn into a Geom class for scalability](https://github.com/animint/animint2/pull/107) | [#48 Move scale range calculation from compiler to the renderer.](https://github.com/animint/animint2/issues/48) |
+
 ## **Overview**
 
 This blog shares my work and experience during Google Summer of Code 2023.
